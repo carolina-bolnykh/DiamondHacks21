@@ -13,7 +13,7 @@ This repository holds the following information:
 
 ## Categories
 
-This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional [prizes](Prize%Categories.md)!
+This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional prizes!
 
 * 💛 **Innovation**  
     Get inspired by the latest technological advancements.  
