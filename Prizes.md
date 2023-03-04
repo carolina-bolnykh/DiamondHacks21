@@ -1,3 +1,3 @@
 # Prizes
 
-coming soon...
+https://www.ncsudiamondhacks.com/
