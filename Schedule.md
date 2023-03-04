@@ -1,2 +1,2 @@
 # DiamondHacks '23 Schedule
-coming soon...
+https://www.ncsudiamondhacks.com/
